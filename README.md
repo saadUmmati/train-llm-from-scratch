@@ -7,8 +7,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) [![CI](https://github.com/FareedKhan-dev/train-llm-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/FareedKhan-dev/train-llm-from-scratch/actions/workflows/ci.yml) ![License](https://img.shields.io/badge/License-MIT-green) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue) [![Docs](https://img.shields.io/badge/Docs-Available-success)](https://fareedkhan-dev.github.io/train-llm-from-scratch/)
 
-**I am Looking for a PhD position in AI**. [GitHub](https://github.com/FareedKhan-dev)
-
 </div>
 
 I implemented a transformer model from scratch using PyTorch, based on the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762). You can use my scripts to train your own **billion** or **million** parameter LLM using a single GPU, or a small one on a laptop CPU with no GPU at all.
